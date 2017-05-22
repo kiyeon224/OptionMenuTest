@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_blue"
+        android:title="배경색 (하늘)"
+        />
+    <item android:id="@+id/item_pink"
+        android:title="배경색 (벚꽃)"
+        />
+    <item android:id="@+id/item_yello"
+        android:title="배경색 (개나리)"
+        />
+
+    <item android:title="체체체체인쥐 >>">
+        <menu>
+            <item android:id="@+id/item_but_rotate"
+                android:title="빙글빙글빙그르르"
+                />
+            <item android:id="@+id/item_but_size"
+                android:title="자라나라 버튼버튼!"
+                />
+        </menu>
+    </item>
+
+</menu>
