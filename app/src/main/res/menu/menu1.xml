@@ -6,7 +6,7 @@
     <item android:id="@+id/item_pink"
         android:title="배경색 (벚꽃)"
         />
-    <item android:id="@+id/item_yello"
+    <item android:id="@+id/item_yellow"
         android:title="배경색 (개나리)"
         />
 
